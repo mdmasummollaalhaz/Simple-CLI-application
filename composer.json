@@ -11,5 +11,7 @@
             "email": "masummolla.cse@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/console": "^7.1"
+    }
 }

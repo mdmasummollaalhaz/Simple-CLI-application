@@ -20,6 +20,9 @@ Try to use OOP concepts if possible. But if you find it hard to use OOP, you can
    
 Make sure to store the data in files so that the data persists after the script ends and the script can use the stored data next time.
 
+### Links
+- [PHP Console Component](https://symfony.com/doc/current/components/console.html)
+
 
 ### Commands
 ##### Package initialization
